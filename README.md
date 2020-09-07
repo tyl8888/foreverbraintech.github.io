@@ -1,5 +1,5 @@
 # ForeverBrain Tech Website Demo
-The website is built by www.keczhao.com | @cocoz
+The website is built by coco
 
 Free for personal and commercial use under the CCA 3.0 license
 
